@@ -7,6 +7,7 @@ icon: material/crystal-ball
 :material-lightbulb: Data Version: `2.0.2`
 
 This page documents all the available traits and their chances on summons.
+Disclaimer I do not own this data and was shared publically among forums
 
 ??? warning ">> SPOILER WARNING (Full Summon List) - CLICK TO EXPAND"
 
