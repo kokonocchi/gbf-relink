@@ -2,9 +2,9 @@
 icon: material/crystal-ball
 ---
 
-# :material-crystal-ball: Summon Trait Chances
+#  Summon Trait Chances
 
-:material-lightbulb: Data Version: `2.0.2`
+Data Version: `2.0.2`
 
 This page documents all the available traits and their chances on summons.
 
